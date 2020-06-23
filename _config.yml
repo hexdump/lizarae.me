@@ -1,0 +1,10 @@
+title: crado
+email: contact@hexdump.email
+description: >-
+  beth beyer's personal page.
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+theme: minima
