@@ -9,9 +9,8 @@ icon1: fa fa-envelope-open
 link1: mailto:beth@tecalliance.org
 ---
 
-# Projects
+# Quarantine 2020 Songs
 
-beth beyer has done a lot of projects, including:
 * project - Coral Reef Regeneration
 * project B
 * project C
