@@ -11,10 +11,9 @@ link1: mailto:beth@tecalliance.org
 
 # Quarantine 2020 Songs
 
-* project - Coral Reef Regeneration
-* project B
-* project C
-
+* Sunrise 
+* When I Saw You
+* SummerTime
 ***
 ============
 
