@@ -11,7 +11,7 @@ link1: mailto:beth@tecalliance.org
 
 # Quarantine 2020 Songs
 
-* Sunrise (éirí na gréine)
+* [Sunrise (éirí na gréine)](http://lizarae.me/assets/1%20Sunrise%20(éir%C3%AD%20na%20gréine)%20-%207_7_20%20-%20Liza%20Rae.mp3)
 * COVID Potential
 * Day (Turned grey)
 * Room @ the top of the stairs
