@@ -17,8 +17,16 @@ h1 {
     font-family: 'Poppins-Bold';
 }
 
-a:active {
+a {
     color: #19A6A6;
+}
+
+a:visited {
+    color: #19A6A6;
+}
+
+a:active {
+    color: #009999;
 }
 
 hr {
