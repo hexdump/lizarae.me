@@ -11,9 +11,13 @@ link1: mailto:beth@tecalliance.org
 
 # Quarantine 2020 Songs
 
-* Sunrise 
+* Sunrise (éirí na gréine)
+* COVID Potential
+* Day (Turned grey)
+* Room @ the top of the stairs
 * When I Saw You
 * SummerTime
+* Crashing Dreams
 ***
 ============
 
