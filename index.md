@@ -15,7 +15,7 @@ link1: mailto:beth@tecalliance.org
 * [**COVID Potential**](http://lizarae.me/assets/2%20COVID%20Potential%20-%206_12%20-%20Liza%20Rae.mp3)
 * [**Day (Turned grey)**](http://lizarae.me/assets/3%20Day%20(Turned%20Grey)%20by%20Liza%20Rae%20-%208_15.mp3) [*lyrics*](http://lizarae.me/assets/The%20Day%20(turned%20grey)%20by%20Liza%20Rae.pdf)
 * [**Room @ the top of the stairs**](https://lizarae.me/assets/4%20Room%206_19.mp3)
-* [**When I Saw You**](https://lizarae.me/assets/5%20When%20I%20Saw%20You%20-%20EQ%20-%205:20:20%2C%203.58%20PM.mp3)
+* [**When I Saw You**](https://lizarae.me/assets/5%20When%20I%20Saw%20You%20-%20EQ%20-%205:20:20%2C%203.58%20PM.mp3)[*lyrics*]
 * [**SummerTime**](https://lizarae.me/assets/6%20Summertime%2C%20I%20feel%20fine....wav)
 * Crashing Dreams
 ***
