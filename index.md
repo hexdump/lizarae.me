@@ -19,7 +19,7 @@ link1: mailto:beth@tecalliance.org
 
 * [**Room @ the top of the stairs**](https://lizarae.me/assets/4%20Room%206_19.mp3)
 
-* [**When I Saw You**](https://lizarae.me/assets/5%20When%20I%20Saw%20You%20-%20EQ%20-%205:20:20%2C%203.58%20PM.mp3)[*lyrics*](http://lizarae.me/assets/When%20I%20Saw%20You.pdf)
+* [**When I Saw You**](https://lizarae.me/assets/5%20When%20I%20Saw%20You%20-%20EQ%20-%205:20:20%2C%203.58%20PM.mp3) [*lyrics*](http://lizarae.me/assets/When%20I%20Saw%20You.pdf)
 
 * [**SummerTime**](https://lizarae.me/assets/6%20Summertime%2C%20I%20feel%20fine....wav)
 * Crashing Dreams
