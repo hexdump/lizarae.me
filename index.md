@@ -23,8 +23,8 @@ link1: mailto:beth@tecalliance.org
 
 * [**SummerTime**](https://lizarae.me/assets/6%20Summertime%2C%20I%20feel%20fine....wav)
 
-* [**Crashing Dreams**](https://lizarae.me/
-***
+* [**Crashing Dreams**](https://lizarae.me/assets/8%20Crashing%20Dreams.wav) [*lyrics*](https://lizarae.me/
+
 ============
 
 Paragraphs are separated by a blank line.
