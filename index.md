@@ -24,7 +24,6 @@ link1: mailto:beth@tecalliance.org
 * [**SummerTime**](https://lizarae.me/assets/6%20Summertime%2C%20I%20feel%20fine....wav)
 
 * [**Crashing Dream**] [*lyrics*](https://lizarae.me/assets/Crashing%20Dreams%20-%20Lyrics.pdf)
-
 ============
 
 Paragraphs are separated by a blank line.
