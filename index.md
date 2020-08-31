@@ -9,7 +9,7 @@ icon1: fa fa-envelope-open
 link1: mailto:beth@tecalliance.org
 ---
 
-# Quarantine 20/20 Songs
+# Quarantine 20/20 
 
 * [**Sunrise (éirí na gréine)**](http://lizarae.me/assets/1%20Sunrise%20(éir%C3%AD%20na%20gréine)%20-%207_7_20%20-%20Liza%20Rae.mp3)
 * [**COVID Potential**](http://lizarae.me/assets/2%20COVID%20Potential%20-%206_12%20-%20Liza%20Rae.mp3)
