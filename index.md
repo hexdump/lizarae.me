@@ -18,3 +18,4 @@ link1: mailto:beth@tecalliance.org
 * [**When I Saw You**](https://lizarae.me/assets/5%20When%20I%20Saw%20You%20-%20EQ%20-%205:20:20%2C%203.58%20PM.mp3) [*lyrics*](http://lizarae.me/assets/When%20I%20Saw%20You.pdf)
 * [**SummerTime**](https://lizarae.me/assets/6%20Summertime%2C%20I%20feel%20fine....wav)
 * [**Crashing Dream**](https://lizarae.me/assets/8%20Crashing%20Dream%20-%208:30:20%2C%2010.31%20AM.wav) [*lyrics*](https://lizarae.me/assets/Crashing%20Dreams%20-%20Lyrics.pdf)
+* [**Ishatay**](https://lizarae.me/
