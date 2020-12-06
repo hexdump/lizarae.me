@@ -11,7 +11,7 @@ link1: mailto:beth@tecalliance.org
 
 # Quarantine 20/20 
 
-* [**Sunrise (éirí na gréine)**](http://lizarae.me/assets/1%20Sunrise%20(éir%C3%AD%20na%20gréine)%20-%207_7_20%20-%20Liza%20Rae.mp3)
+* [**Sunrise (éirí na gréine)**](http://lizarae.me/assets/1%20Sunrise%20(éir%C3%AD%20na%20gréine).mp3)
 * [**COVID Potential**](http://lizarae.me/assets/2%20COVID%20Potential%20-%206_12%20-%20Liza%20Rae.mp3)
 * [**Day (Turned grey)**](http://lizarae.me/assets/3%20Day%20(Turned%20Grey)%20by%20Liza%20Rae%20-%208_15.mp3) [*lyrics*](http://lizarae.me/assets/The%20Day%20(turned%20grey)%20by%20Liza%20Rae.pdf)
 * [**In our room @ the top of the stairs**](https://lizarae.me/assets/4%20Room%206_19.mp3) [*lyrics*](https://lizarae.me/assets/In%20our%20room%20%40%20the%20top%20of%20the%20stairs.pdf)
